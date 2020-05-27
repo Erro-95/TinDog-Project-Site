@@ -143,6 +143,10 @@ div.press {
 	padding: 2%;
 }
 
+.bot-margin {
+	margin-bottom: 3.5rem;
+}
+
 .plan-title {
 	font-weight: 700;
 }
@@ -176,9 +180,13 @@ div.press {
 	padding-top: 5px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991px) {
 	h1 {
 		font-size: 3.5rem;
+	}
+
+	.bot-margin {
+		margin-bottom: 1rem;
 	}
 }
 
