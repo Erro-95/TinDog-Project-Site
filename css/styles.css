@@ -33,6 +33,11 @@ body {
 	padding: 100px 0;
 }
 
+div.row {
+	margin-left: unset;
+	margin-right: unset;
+}
+
 div.container-fluid {
 	padding-bottom: 0;
 }
